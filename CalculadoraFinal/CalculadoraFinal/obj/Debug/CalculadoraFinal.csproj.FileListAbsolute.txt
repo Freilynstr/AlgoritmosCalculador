@@ -1,0 +1,10 @@
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\bin\Debug\CalculadoraFinal.exe.config
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\bin\Debug\CalculadoraFinal.exe
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\bin\Debug\CalculadoraFinal.pdb
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.csprojAssemblyReference.cache
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.Form1.resources
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.Properties.Resources.resources
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.csproj.GenerateResource.cache
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.csproj.CoreCompileInputs.cache
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.exe
+C:\Users\Freilynstr\Documents\UNIBE\2019-03\Análisis y Diseño de Algoritmos\CalculadoraFinal\CalculadoraFinal\obj\Debug\CalculadoraFinal.pdb
