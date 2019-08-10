@@ -16,5 +16,27 @@ namespace CalculadoraFinal
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string[] numbers = textBox1.Text.Split(',');
+
+            textBox2.Text = "Los números son: ";
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                textBox2.Text += numbers[i]+" ";
+            }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
